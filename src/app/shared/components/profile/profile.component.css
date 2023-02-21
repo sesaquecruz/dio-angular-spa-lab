@@ -1,0 +1,14 @@
+.profile-container {
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.profile-photo {
+  width: 75px;
+}
+
+.profile-description {
+  margin-top: 5px;
+  margin-left: 15px;
+}
